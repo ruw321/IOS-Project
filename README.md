@@ -133,9 +133,6 @@ How are you? is a mental health state tracking application. The app is meant to 
     * Click back arrow to go back to Home Screen
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-![](https://i.imgur.com/phHlbgW.jpg)
-
 ### [BONUS] Digital Wireframes & Mockups
 ![](https://i.imgur.com/5z37HaN.png)
 
